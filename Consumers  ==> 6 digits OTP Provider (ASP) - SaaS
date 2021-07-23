@@ -1,0 +1,27 @@
+Consumers  ==> 6 digits OTP Provider (ASP) - SaaS
+		   ==> alphanumeric OTP
+
+		   OTP Generation Algo - 6 digits
+		   					   - 4 digts
+		   					   - alphanumeric
+		   					   encrypted 
+
+Swagger OTP
+
+	- otp/sms (Post) - Send
+	- otp/sms (Put)	- Resend
+
+	- otp/call (Post) - Send
+	- otp/call (Put)	- Resend
+
+	- otp/email (Post) - Send
+	- otp/email (Put)	- Resend	
+
+	- otp/verify (Post) - Verify
+	- otp/status - Check OTP Status
+
+
+
+
+
+	
